@@ -1,0 +1,106 @@
+{
+    "asset" : {
+        "version" : "2.0",
+        "generator" : "Khronos Blender glTF 2.0 I/O"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Maps Marker",
+            "scale" : [
+                0.10000000149011612,
+                0.10000000149011612,
+                0.10000000149011612
+            ],
+            "rotation" : [
+                0,
+                0,
+                -0.7071067690849304,
+                0.7071067690849304
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "pbrMetallicRoughness" : {},
+            "name" : "Material.002"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Maps Marker",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "max" : [
+                7.4803147315979,
+                0.3937007784843445,
+                4.3307085037231445
+            ],
+            "componentType" : 5126,
+            "count" : 3008,
+            "min" : [
+                -7.4803147315979,
+                -0.3937007784843445,
+                -4.3307085037231445
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "type" : "VEC3",
+            "componentType" : 5126,
+            "count" : 3008
+        },
+        {
+            "bufferView" : 2,
+            "type" : "SCALAR",
+            "componentType" : 5123,
+            "count" : 3240
+        }
+    ],
+    "bufferViews" : [
+        {
+            "byteLength" : 36096,
+            "buffer" : 0,
+            "byteOffset" : 0
+        },
+        {
+            "byteLength" : 36096,
+            "buffer" : 0,
+            "byteOffset" : 36096
+        },
+        {
+            "byteLength" : 6480,
+            "buffer" : 0,
+            "byteOffset" : 72192
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 78672,
+            "uri" : "mapPoint.bin"
+        }
+    ]
+}
