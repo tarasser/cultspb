@@ -1,0 +1,1970 @@
+# Blender MTL File: 'isaacc3.blend'
+# Material Count: 179
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_10_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_10_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_11_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_11_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_12_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_12_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_13_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_13_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_14_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_14_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_15_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_15_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_16_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_16_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_17_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_17_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_18_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_18_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_19_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_19_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_1_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_1_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_20_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_20_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_21_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_21_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_22_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_22_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_23_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_23_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_24_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_24_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_25_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_25_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_26_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_26_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_27_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_27_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_28_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_28_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_29_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_29_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_2_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_2_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_30_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_30_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_31_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_31_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_32_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_32_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_33_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_33_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_34_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_34_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_35_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_35_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_36_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_36_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_37_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_37_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_38_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_38_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_39_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_39_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_3_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_3_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_40_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_40_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_41_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_41_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_42_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_42_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_43_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_43_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_44_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_44_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_45_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_45_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_46_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_46_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_47_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_47_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_48_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_48_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_49_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_49_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_4_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_4_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_50_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_50_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_51_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_51_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_52_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_52_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_53_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_53_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_54_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_54_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_55_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_55_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_56_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_56_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_57_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_57_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_58_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_58_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_59_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_59_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_5_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_5_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_60_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_60_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_61_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_61_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_62_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_62_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_63_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_63_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_64_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_64_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_65_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_65_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_66_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_66_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_67_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_67_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_68_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_68_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_69_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_69_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_6_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_6_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_70_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_70_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_71_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_71_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_72_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_72_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_73_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_73_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_74_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_74_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_75_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_75_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_76_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_76_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_77_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_77_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_78_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_78_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_79_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_79_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_7_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_7_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_80_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_80_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_8_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_8_.jpg
+
+newmtl Material.002_Saint_Isaac_s_Cathedral1_9_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/Saint_Isaac_s_Cathedral1_9_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_1.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_1.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_10_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_10_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_11_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_11_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_12_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_12_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_13_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_13_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_14_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_14_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_15_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_15_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_16_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_16_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_17_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_17_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_18_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_18_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_19_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_19_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_1_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_1_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_2.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_2.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_20_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_20_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_21_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_21_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_22_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_22_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_23_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_23_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_24_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_24_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_25_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_25_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_26_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_26_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_27_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_27_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_28_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_28_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_29_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_29_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_2_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_2_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_30_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_30_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_31_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_31_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_32_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_32_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_33_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_33_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_34_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_34_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_35_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_35_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_36_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_36_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_37_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_37_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_38_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_38_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_39_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_39_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_3_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_3_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_40_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_40_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_41_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_41_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_42_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_42_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_43_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_43_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_44_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_44_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_45_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_45_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_46_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_46_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_47_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_47_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_48_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_48_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_49_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_49_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_4_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_4_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_50_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_50_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_51_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_51_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_52_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_52_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_53_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_53_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_54_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_54_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_55_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_55_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_56_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_56_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_57_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_57_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_58_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_58_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_59_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_59_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_5_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_5_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_60_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_60_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_61_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_61_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_62_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_62_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_63_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_63_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_64_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_64_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_65_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_65_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_66_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_66_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_67_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_67_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_68_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_68_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_69_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_69_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_6_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_6_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_70_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_70_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_71_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_71_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_72_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_72_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_73_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_73_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_74_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_74_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_75_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_75_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_76_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_76_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_77_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_77_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_78_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_78_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_79_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_79_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_7_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_7_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_80_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_80_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_81_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_81_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_82_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_82_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_83_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_83_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_84_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_84_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_85_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_85_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_86_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_86_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_87_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_87_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_88_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_88_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_89_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_89_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_8_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_8_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_90_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_90_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_91_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_91_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_92_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_92_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_93_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_93_.jpg
+
+newmtl Material.002_St_Isaac_cathedralmimg1_9_.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/St_Isaac_cathedralmimg1_9_.jpg
+
+newmtl Material.002__2.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465169 0.447608 0.363814
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd isaacc/_2.jpg
