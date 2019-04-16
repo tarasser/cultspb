@@ -1,0 +1,588 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _FEDERA
+Ka 0.000000 0.000000 0.000000
+Kd 0.623529 0.560784 0.372549
+Ks 0.330000 0.330000 0.330000
+d 0.710000
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.501961 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/Google_Earth_Snapshot1.jpg
+
+newmtl JPG_TorrioneLato_part
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.694118 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_TorrioneLato_part.jpg
+
+newmtl JPG_Corpo_Torrione_Lato
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.584314 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Corpo_Torrione_Lato.jpg
+
+newmtl _GEN_InternoScuro
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl JPG_Torrione_Finestra
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.372549 0.447059
+Ks 0.330000 0.330000 0.330000
+d 0.650000
+map_Kd Spas na krovi/JPG_Torrione_Finestra.jpg
+
+newmtl __GEN_CopVerde_Scura
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.443137 0.396078
+Ks 0.330000 0.330000 0.330000
+
+newmtl JPG_MuroMattoni
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.450980 0.372549
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_MuroMattoni.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl JPG_CopVerde_Chiara
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.560784 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_CopVerde_Chiara.jpg
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.678431 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/Stone_Masonry_Multi.jpg
+
+newmtl JPG_Absidiola_Lato
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.466667 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Absidiola_Lato.jpg
+
+newmtl JPG_Absidiola_Lato_Racc
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.478431 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Absidiola_Lato_Racc.jpg
+
+newmtl JPG_Abside_NicchiaBassa
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.223529 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_NicchiaBassa.jpg
+
+newmtl JPG_Abside_Porta
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.200000 0.188235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_Porta.jpg
+
+newmtl JPG_Abside_FregioLaterale
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.400000 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_FregioLaterale.jpg
+
+newmtl JPG_Abside_LatoAlto
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.470588 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_LatoAlto.jpg
+
+newmtl JPG_Abside_Cristo
+Ka 0.000000 0.000000 0.000000
+Kd 0.631373 0.580392 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_Cristo.jpg
+
+newmtl JPG_Abside_ColonninaLunette
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.415686 0.407843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_ColonninaLunette.jpg
+
+newmtl JPG_Abside_ColonninaLunette1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.415686 0.407843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_ColonninaLunette1_.jpg
+
+newmtl JPG_Abside_CopAlta1
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.509804 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_CopAlta1.jpg
+
+newmtl JPG_Abside_CopAlta_Alt
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.505882 0.537255
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_CopAlta_Alt.jpg
+
+newmtl JPG_Abside_TorreLato2
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.525490 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_TorreLato2.jpg
+
+newmtl PNG_CROCE_3A
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.890196 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_CROCE_3A.png
+
+newmtl _GEN_ORO
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.521569 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl PNG_GEN_Tirante
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.913725 0.803922
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_GEN_Tirante.png
+
+newmtl JPG_PuntaleConPalla1
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.654902 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_PuntaleConPalla1.jpg
+
+newmtl JPG_PrimaTorre_Lato1
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.458824 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_PrimaTorre_Lato1.jpg
+
+newmtl _GEN_InternoScuro_MOLTO
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl JPG_Pronao_FormelleNORD
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD.jpg
+
+newmtl JPG_Pronao_FormelleNORD1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD1_.jpg
+
+newmtl JPG_Pronao_BASE
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_BASE.jpg
+
+newmtl JPG_Pronao_FormelleNORD2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD2_.jpg
+
+newmtl JPG_Pronao_FormelleNORD3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD3_.jpg
+
+newmtl JPG_Pronao_FormelleNORD4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD4_.jpg
+
+newmtl JPG_Pronao_FormelleSUD
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.419608 0.364706
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleSUD.jpg
+
+newmtl JPG_Pronao_FormelleNORD5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD5_.jpg
+
+newmtl JPG_Fianco_Cornicione
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.556863 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Fianco_Cornicione.jpg
+
+newmtl JPG_Pronao_FormelleNORD6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleNORD6_.jpg
+
+newmtl JPG_Pronao_BASE1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_BASE1_.jpg
+
+newmtl JPG_Ingresso_Lato
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.325490 0.266667
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Lato.jpg
+
+newmtl JPG_Pronao_FormelleSUD1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.419608 0.364706
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_FormelleSUD1_.jpg
+
+newmtl JPG_Pronao_Formelle_IconaSU
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.513725 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_Formelle_IconaSU.jpg
+
+newmtl PNG_Crocifisso_Cornice
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.117647 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Crocifisso_Cornice.png
+
+newmtl JPG_Crocefisso_Esterno
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.380392 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Crocefisso_Esterno.jpg
+
+newmtl PNG_Grcocefisso_FerroBattut
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.501961 0.447059
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Grcocefisso_FerroBattut.png
+
+newmtl JPG_Pronao_BASE2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_BASE2_.jpg
+
+newmtl JPG_Abside_CopBassa
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.678431 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_CopBassa.jpg
+
+newmtl JPG_Abside_CopBassa_Lin
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.717647 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_CopBassa_Lin.jpg
+
+newmtl JPG_Abside_CappaLato
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.384314 0.203922
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Abside_CappaLato.jpg
+
+newmtl PNG_Abside_PortaFregio_Spigo
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.678431 0.329412
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Abside_PortaFregio_Spigo.png
+
+newmtl PNG_Abside_PortaFregio
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.172549 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Abside_PortaFregio.png
+
+newmtl __TARGA
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.949020 0.949020
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/__TARGA.png
+
+newmtl JPG_Fianco_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.439216 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Fianco_2.jpg
+
+newmtl JPG_Fianco_2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.439216 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Fianco_2_1_.jpg
+
+newmtl JPG_Fianco_2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.439216 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Fianco_2_2_.jpg
+
+newmtl JPG_Fianco_2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.439216 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Fianco_2_3_.jpg
+
+newmtl JPG_Fianco_2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.439216 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Fianco_2_4_.jpg
+
+newmtl JPG_Pronao_BASE3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_BASE3_.jpg
+
+newmtl JPG_Pronao_BASE4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_BASE4_.jpg
+
+newmtl JPG_Pronao_BASE5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pronao_BASE5_.jpg
+
+newmtl JPG_Absidiola_LatoTorre
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.501961 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Absidiola_LatoTorre.jpg
+
+newmtl Dome_O2_B
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.349020 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/Dome_O2_B.jpg
+
+newmtl JPG_Absidiola_CopLat_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.564706 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Absidiola_CopLat_1.jpg
+
+newmtl JPG_Absidiola_Copertura_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.407843 0.447059
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Absidiola_Copertura_2.jpg
+
+newmtl JPG_Pala_Sinistra
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.411765 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Pala_Sinistra.jpg
+
+newmtl JPG_Ingresso_ParetiAngolo
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.333333 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_ParetiAngolo.jpg
+
+newmtl JPG_Ingresso_ParetiAngolo1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.333333 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_ParetiAngolo1_.jpg
+
+newmtl JPG_Ingresso_ParetiAngolo2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.333333 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_ParetiAngolo2_.jpg
+
+newmtl JPG_Ingresso_PortoneColonne
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.184314 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_PortoneColonne.jpg
+
+newmtl JPG_Ingresso_ParetiAngolo3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.333333 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_ParetiAngolo3_.jpg
+
+newmtl JPG_Ingresso_Cornicione1
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1.jpg
+
+newmtl JPG_Ingresso_Cornicione1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_1_.jpg
+
+newmtl JPG_Ingresso_Cornicione1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_2_.jpg
+
+newmtl JPG_Ingresso_Cornicione1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_3_.jpg
+
+newmtl JPG_Ingresso_Cornicione1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_4_.jpg
+
+newmtl JPG_Ingresso_Cornicione1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_5_.jpg
+
+newmtl JPG_Ingresso_Cornicione1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_6_.jpg
+
+newmtl JPG_Ingresso_Cornicione1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.329412 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Cornicione1_7_.jpg
+
+newmtl PNG_Ingresso_Aquila
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.815686 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Ingresso_Aquila.png
+
+newmtl JPG_MuroMattoni_SCURI
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.141176 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_MuroMattoni_SCURI.jpg
+
+newmtl JPG_Ingresso_Piramide
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.498039 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Piramide.jpg
+
+newmtl JPG_Ingresso_Pilastro
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.466667 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Pilastro.jpg
+
+newmtl JPG_IngrSinistro_FacciaLat
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.290196 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_IngrSinistro_FacciaLat.jpg
+
+newmtl JPG_IngrSinistro_FacciaLat1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.290196 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_IngrSinistro_FacciaLat1_.jpg
+
+newmtl JPG_Ingresso_LatoPerPala
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.501961 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_LatoPerPala.jpg
+
+newmtl JPG_Ingresso_PortoneColonne1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.184314 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_PortoneColonne1_.jpg
+
+newmtl PNG_Ingresso_TrinaAlta_NEW
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.803922 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Ingresso_TrinaAlta_NEW.png
+
+newmtl JPG_Ingresso_SemiTetto1
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.486275 0.407843
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_SemiTetto1.jpg
+
+newmtl PNG_Ingresso_SemiTrina
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.584314 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Ingresso_SemiTrina.png
+
+newmtl PNG_Ingresso_TrinaOrizz
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.360784 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Ingresso_TrinaOrizz.png
+
+newmtl PNG_Ingresso_TrinaPunta
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.290196 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/PNG_Ingresso_TrinaPunta.png
+
+newmtl JPG_Corpo_Torretta_Bifora
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.556863 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Corpo_Torretta_Bifora.jpg
+
+newmtl JPG_Torretta_Lato
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.560784 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Torretta_Lato.jpg
+
+newmtl JPG_Ingresso_Pala_A
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.517647 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Pala_A.jpg
+
+newmtl JPG_Ingresso_Pala_B
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.470588 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Pala_B.jpg
+
+newmtl JPG_Ingresso_Pala_D
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.470588 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Pala_D.jpg
+
+newmtl JPG_Ingresso_Pala_C
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.423529 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Spas na krovi/JPG_Ingresso_Pala_C.jpg
+
