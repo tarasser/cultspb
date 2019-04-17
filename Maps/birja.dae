@@ -5,29 +5,15 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9</authoring_tool>
     </contributor>
-    <created>2019-04-17T03:07:39</created>
-    <modified>2019-04-17T03:07:39</modified>
+    <created>2019-04-17T03:09:42</created>
+    <modified>2019-04-17T03:09:42</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
-  <library_images>
-    <image id="M_07___Default1_png" name="M_07___Default1_png">
-      <init_from>M_07___Default1.png</init_from>
-    </image>
-  </library_images>
+  <library_images/>
   <library_effects>
-    <effect id="M_07___Default1-effect">
+    <effect id="Material_005-effect">
       <profile_COMMON>
-        <newparam sid="M_07___Default1_png-surface">
-          <surface type="2D">
-            <init_from>M_07___Default1_png</init_from>
-          </surface>
-        </newparam>
-        <newparam sid="M_07___Default1_png-sampler">
-          <sampler2D>
-            <source>M_07___Default1_png-surface</source>
-          </sampler2D>
-        </newparam>
         <technique sid="common">
           <phong>
             <emission>
@@ -37,10 +23,10 @@
               <color sid="ambient">0 0 0 1</color>
             </ambient>
             <diffuse>
-              <texture texture="M_07___Default1_png-sampler"/>
+              <color sid="diffuse">0.6341291 0.6620486 0.6410432 1</color>
             </diffuse>
             <specular>
-              <color sid="specular">0.33 0.33 0.33 1</color>
+              <color sid="specular">0.5 0.5 0.5 1</color>
             </specular>
             <shininess>
               <float sid="shininess">50</float>
@@ -54,8 +40,8 @@
     </effect>
   </library_effects>
   <library_materials>
-    <material id="M_07___Default1-material" name="M_07___Default1">
-      <instance_effect url="#M_07___Default1-effect"/>
+    <material id="Material_005-material" name="Material_005">
+      <instance_effect url="#Material_005-effect"/>
     </material>
   </library_materials>
   <library_geometries>
@@ -93,7 +79,7 @@
         <vertices id="Mesh3____________1_1_skp1E56_1_1_Model-mesh-vertices">
           <input semantic="POSITION" source="#Mesh3____________1_1_skp1E56_1_1_Model-mesh-positions"/>
         </vertices>
-        <triangles material="M_07___Default1-material" count="5608">
+        <triangles material="Material_005-material" count="5608">
           <input semantic="VERTEX" source="#Mesh3____________1_1_skp1E56_1_1_Model-mesh-vertices" offset="0"/>
           <input semantic="NORMAL" source="#Mesh3____________1_1_skp1E56_1_1_Model-mesh-normals" offset="1"/>
           <input semantic="TEXCOORD" source="#Mesh3____________1_1_skp1E56_1_1_Model-mesh-map-0" offset="2" set="0"/>
@@ -110,7 +96,7 @@
         <instance_geometry url="#Mesh3____________1_1_skp1E56_1_1_Model-mesh" name="Mesh3____________1_1_skp1E56_1_1_Model">
           <bind_material>
             <technique_common>
-              <instance_material symbol="M_07___Default1-material" target="#M_07___Default1-material"/>
+              <instance_material symbol="Material_005-material" target="#Material_005-material"/>
             </technique_common>
           </bind_material>
         </instance_geometry>
