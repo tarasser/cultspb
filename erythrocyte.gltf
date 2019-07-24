@@ -1,0 +1,401 @@
+{
+    "asset" : {
+        "version" : "2.0",
+        "generator" : "Khronos Blender glTF 2.0 I/O"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "nodes" : [
+                0
+            ],
+            "name" : "Scene"
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Blood Cell"
+        }
+    ],
+    "materials" : [
+        {
+            "pbrMetallicRoughness" : {},
+            "name" : "Material.001"
+        }
+    ],
+    "meshes" : [
+        {
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 0,
+                        "POSITION" : 1
+                    },
+                    "material" : 0,
+                    "indices" : 2
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 3,
+                        "POSITION" : 4
+                    },
+                    "material" : 0,
+                    "indices" : 5
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 6,
+                        "POSITION" : 7
+                    },
+                    "material" : 0,
+                    "indices" : 8
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 9,
+                        "POSITION" : 10
+                    },
+                    "material" : 0,
+                    "indices" : 11
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 12,
+                        "POSITION" : 13
+                    },
+                    "material" : 0,
+                    "indices" : 14
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 15,
+                        "POSITION" : 16
+                    },
+                    "material" : 0,
+                    "indices" : 17
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 18,
+                        "POSITION" : 19
+                    },
+                    "material" : 0,
+                    "indices" : 20
+                }
+            ],
+            "name" : "Blood Cell"
+        }
+    ],
+    "accessors" : [
+        {
+            "count" : 65534,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 0
+        },
+        {
+            "min" : [
+                -0.8450514078140259,
+                0.9492560029029846,
+                -1.3875732421875
+            ],
+            "max" : [
+                1.1950829029083252,
+                1.491342544555664,
+                4.513603268918587e-09
+            ],
+            "bufferView" : 1,
+            "count" : 65534,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 65550,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 2
+        },
+        {
+            "count" : 65531,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 3
+        },
+        {
+            "min" : [
+                -1.1950829029083252,
+                0.9492560029029846,
+                -1.1008356809616089
+            ],
+            "max" : [
+                -0.14717169106006622,
+                1.491342544555664,
+                1.375702142715454
+            ],
+            "bufferView" : 4,
+            "count" : 65531,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 65541,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 5
+        },
+        {
+            "count" : 65532,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 6
+        },
+        {
+            "min" : [
+                -0.7492395043373108,
+                0.9492560029029846,
+                -0.8699183464050293
+            ],
+            "max" : [
+                1.1950829029083252,
+                1.491342544555664,
+                1.3875731229782104
+            ],
+            "bufferView" : 7,
+            "count" : 65532,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 65538,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 8
+        },
+        {
+            "count" : 65533,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 9
+        },
+        {
+            "min" : [
+                -0.7492395639419556,
+                1.0654523372650146,
+                -0.8699183464050293
+            ],
+            "max" : [
+                0.7428297400474548,
+                1.3751461505889893,
+                0.8699183464050293
+            ],
+            "bufferView" : 10,
+            "count" : 65533,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 65547,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 11
+        },
+        {
+            "count" : 65533,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 12
+        },
+        {
+            "min" : [
+                -0.4995288848876953,
+                1.1446336507797241,
+                -0.5799872279167175
+            ],
+            "max" : [
+                0.49952882528305054,
+                1.2959648370742798,
+                0.5799872279167175
+            ],
+            "bufferView" : 13,
+            "count" : 65533,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 65547,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 14
+        },
+        {
+            "count" : 50119,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 15
+        },
+        {
+            "min" : [
+                -0.29168379306793213,
+                1.1754380464553833,
+                -0.3634321689605713
+            ],
+            "max" : [
+                0.3157162070274353,
+                1.2651604413986206,
+                0.3665682077407837
+            ],
+            "bufferView" : 16,
+            "count" : 50119,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 50121,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 17
+        },
+        {
+            "count" : 12,
+            "componentType" : 5126,
+            "type" : "VEC3",
+            "bufferView" : 18
+        },
+        {
+            "min" : [
+                -0.8363670706748962,
+                1.1615015268325806,
+                -0.9868373870849609
+            ],
+            "max" : [
+                0.3859102427959442,
+                1.385270118713379,
+                1.3245240449905396
+            ],
+            "bufferView" : 19,
+            "count" : 12,
+            "componentType" : 5126,
+            "type" : "VEC3"
+        },
+        {
+            "count" : 12,
+            "componentType" : 5123,
+            "type" : "SCALAR",
+            "bufferView" : 20
+        }
+    ],
+    "bufferViews" : [
+        {
+            "byteOffset" : 0,
+            "byteLength" : 786408,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 786408,
+            "byteLength" : 786408,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 1572816,
+            "byteLength" : 131100,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 1703916,
+            "byteLength" : 786372,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 2490288,
+            "byteLength" : 786372,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 3276660,
+            "byteLength" : 131082,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 3407744,
+            "byteLength" : 786384,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 4194128,
+            "byteLength" : 786384,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 4980512,
+            "byteLength" : 131076,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 5111588,
+            "byteLength" : 786396,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 5897984,
+            "byteLength" : 786396,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 6684380,
+            "byteLength" : 131094,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 6815476,
+            "byteLength" : 786396,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 7601872,
+            "byteLength" : 786396,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 8388268,
+            "byteLength" : 131094,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 8519364,
+            "byteLength" : 601428,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 9120792,
+            "byteLength" : 601428,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 9722220,
+            "byteLength" : 100242,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 9822464,
+            "byteLength" : 144,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 9822608,
+            "byteLength" : 144,
+            "buffer" : 0
+        },
+        {
+            "byteOffset" : 9822752,
+            "byteLength" : 24,
+            "buffer" : 0
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 9822776,
+            "uri" : "erythrocyte.bin"
+        }
+    ]
+}
